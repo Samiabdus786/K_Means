@@ -334,7 +334,7 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("""
-    <div style='text-align: center; color: white; padding: 20px;'>
+    <div style='text-align: center; color: black; padding: 20px;'>
     <p>🛍️ Mall Customer Clustering Analysis | Powered by K-Means & Decision Tree ML Models</p>
     </div>
 """, unsafe_allow_html=True)
